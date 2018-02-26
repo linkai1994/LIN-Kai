@@ -1,2 +1,2 @@
-# LIN-Kai
-A student
+# TexasPoker Game
+Just for fun
